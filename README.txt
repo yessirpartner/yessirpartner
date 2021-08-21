@@ -1,0 +1,2 @@
+- <yessirpartner> true
+- <stupid ass loud motherfucker> - true
